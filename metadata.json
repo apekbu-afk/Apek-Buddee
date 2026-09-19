@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกรายรับรายจ่าย",
+  "description": "ระบบบันทึกรายรับรายจ่าย ใช้งานง่ายบนมือถือ สรุปยอดรายเดือนอัตโนมัติ กราฟเปรียบเทียบ และส่งออกไฟล์ Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
